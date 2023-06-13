@@ -1,9 +1,9 @@
 import { useContext } from "react";
-import About from "./components/about/About";
+import About from "./components/About/About";
 import Contact from "./components/Contact/Contact";
 import Intro from "./components/intro/Intro";
-import ProductList from "./components/productList/ProductList";
-import Toggle from "./components/toggle/Toggle";
+import ProductList from "./components/ProductList/ProductList";
+import Toggle from "./components/Toggle/Toggle";
 import { ThemeContext } from "./context";
 
 const App = () => {
