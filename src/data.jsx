@@ -12,7 +12,7 @@ export const products = [
     {
         id: 2,
         img: p1,
-        link: "https://github.com/Rishabh324/YouChat",
+        link: "https://letsyouchat.netlify.app/login",
     },
     {
         id: 3,
@@ -27,6 +27,6 @@ export const products = [
     {
         id: 5,
         img: p4,
-        link: "https://listify-todo.netlify.app/",
+        link: "https://graceful-liger-35437c.netlify.app/",
     },
 ];
