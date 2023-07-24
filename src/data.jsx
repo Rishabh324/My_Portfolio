@@ -12,7 +12,7 @@ export const products = [
     {
         id: 2,
         img: p1,
-        link: "https://letsyouchat.netlify.app/login",
+        link: "https://letsyouchat.netlify.app/",
     },
     {
         id: 3,
